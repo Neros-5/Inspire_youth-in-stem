@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+}
+.top-div {
+    margin: auto;
+    margin-top: 200px;
+    border-style: solid;
+    border-color: whitesmoke;
+    width: 500px;
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title {
+    font-size: 50px;
+}
+.user {
+    margin-bottom: 20px;
+}
+.pass {
+    margin-bottom: 10px;
+}
+.log {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
