@@ -6,7 +6,7 @@ user_name = input('Input Name: ')
 print('Hello there ' + user_name)
 
 # 2.Using a while loop
-# 3.Get user number
+# 3.Get user number 
 # 4.Generate a random number
 random_number = randint(10, 50)
 
