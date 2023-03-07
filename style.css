@@ -1,4 +1,63 @@
 #param3 {
     border-style: dotted;
     border-color: black;
+    margin-left: 500px;
+    background-color: lightblue;
+}
+li{
+    text-decoration: none;
+}
+body {
+    text-align: center;
+    background-color: grey;
+}
+.link {
+    margin-top: 50px;
+}
+a:hover {
+    background-color: black;
+}
+.visit-link a {
+    color: white;
+    background-color: purple;
+    font-weight: bold;
+    padding: 8px;
+    font-size: 15px;
+    border: 1px solid black;
+}
+.visit-link a:hover {
+    background-color: antiquewhite;
+    color: black;
+    transition: 200ms ease-in-out;
+}
+a {
+    text-decoration: none;
+}
+.ul {
+    list-style: none;
+    padding: 10px;
+}
+.left-bar {
+    background-color: blue;
+    color: beige;
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    padding-top: 20px;
+    top: 0;
+    left: 0;
+}
+.right-bar {
+    background-color: blue;
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+.rounded-img {
+    width: 200px;
+    height: 170px;
+    border-radius: 100%;
+    overflow-y: none ;
 }
